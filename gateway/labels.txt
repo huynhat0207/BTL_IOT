@@ -1,0 +1,3 @@
+0 Wear mask
+1 Don't wear mask
+2 Nobody
